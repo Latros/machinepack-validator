@@ -1,0 +1,24 @@
+{
+  "name": "machinepack-validator",
+  "version": "1.0.0",
+  "description": "<h1>   <a href=\"http://node-machine.org\" title=\"Node-Machine public registry\"><img alt=\"node-machine logo\" title=\"Node-Machine Project\" src=\"http://node-machine.org/images/machine-anthropomorph-for-white-bg.png\" width=\"50\" /></a>   machinepack-validator </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Latros/machinepack-validator.git"
+  },
+  "keywords": [
+    "validator",
+    "validation",
+    "validate"
+  ],
+  "author": "Sam Stiles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Latros/machinepack-validator/issues"
+  },
+  "homepage": "https://github.com/Latros/machinepack-validator"
+}
