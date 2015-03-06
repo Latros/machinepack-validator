@@ -7,7 +7,7 @@
 
 Validate some user input and generate human-friendly error messages.
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-validator.svg)](http://badge.fury.io/js/machinepack-validator) [![Build Status](https://travis-ci.org/latros/machinepack-validator.png?branch=master)](https://travis-ci.org/latros/machinepack-validator)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-validator.svg)](http://badge.fury.io/js/machinepack-validator) [![Build Status](https://travis-ci.org/Latros/machinepack-validator.svg?branch=master)](https://travis-ci.org/latros/machinepack-validator)
 
 ```sh
 $ npm install machinepack-validator
